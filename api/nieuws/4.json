@@ -1,1 +1,17 @@
-
+{
+  "id": 4,
+  "titel": "Meer dan duizend leerlingen namen deel aan een succesvolle sportdag vol uitdagingen, plezier en teamspirit",
+  "categorie": "Evenementen",
+  "auteur": "Maria Wick",
+  "datum": "2024-03-09",
+  "slug": "sportdag",
+  "intro": "De sportdag stond volledig in het teken van beweging, samenwerking en respect.",
+  "inhoud": "Leerlingen konden deelnemen aan verschillende activiteiten zoals voetbal, basketbal, atletiek en estafettes. Het evenement bood niet alleen sportieve uitdagingen, maar versterkte ook de verbondenheid tussen leerlingen uit verschillende jaren en studierichtingen.",
+  "punten": [
+    "Voetbaltoernooi",
+    "Basketbalwedstrijd",
+    "Loopwedstrijden",
+    "Teamspelen",
+    "Behendigheidsparcours"
+  ]
+}
