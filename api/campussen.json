@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "naam": "Campus Caputsteen",
+    "adres": "Caputsteenstraat, Mechelen",
+    "richtingen": 4,
+    "beschrijving": "Campus met focus op STEM-richtingen zoals Informatica, Industriële Wetenschappen, Wetenschappen en Technologische Wetenschappen."
+  },
+  {
+    "id": 2,
+    "naam": "Campus Botaniek",
+    "adres": "Botaniek, Mechelen",
+    "richtingen": 4,
+    "beschrijving": "Campus met focus op economie, organisatie en talen."
+  },
+  {
+    "id": 3,
+    "naam": "Campus Stassart",
+    "adres": "Stassartstraat, Mechelen",
+    "richtingen": 2,
+    "beschrijving": "Campus met focus op mens- en wetenschapsrichtingen."
+  }
+]
