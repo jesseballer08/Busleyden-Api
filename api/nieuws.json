@@ -1,38 +1,14 @@
 [
   {
     "id": 1,
-    "titel": "Tijdens een druk bezocht infomoment maakten honderden leerlingen kennis met de verschillende studierichtingen van Busleyden Atheneum",
-    "categorie": "Inschrijvingen",
-    "auteur": "Matt Smith",
-    "datum": "2024-01-09",
-    "slug": "infomoment-studierichtingen"
+    "titel": "De campus kreeg dit schooljaar verschillende vernieuwingen die het leercomfort en de onderwijskwaliteit verder versterken",
+    "categorie": "Campussen",
+    "auteur": "Maria Wick",
+    "datum": "2024-06-09",
+    "slug": "campus-vernieuwingen"
   },
   {
     "id": 2,
-    "titel": "Busleyden Atheneum lanceert een vernieuwde digitale leeromgeving die communicatie en samenwerking eenvoudiger maakt",
-    "categorie": "Schoolnieuws",
-    "auteur": "John Simba",
-    "datum": "2024-02-09",
-    "slug": "digitale-leeromgeving"
-  },
-  {
-    "id": 3,
-    "titel": "Meer dan duizend leerlingen namen deel aan een succesvolle sportdag vol uitdagingen, plezier en teamspirit",
-    "categorie": "Evenementen",
-    "auteur": "Maria Wick",
-    "datum": "2024-03-09",
-    "slug": "sportdag"
-  },
-  {
-    "id": 4,
-    "titel": "Tijdens de jaarlijkse projectweek werkten leerlingen aan innovatieve oplossingen voor actuele maatschappelijke uitdagingen",
-    "categorie": "Projecten",
-    "auteur": "Matt Smith",
-    "datum": "2024-04-09",
-    "slug": "projectweek"
-  },
-  {
-    "id": 5,
     "titel": "Toekomstige leerlingen en hun ouders kunnen zich vanaf vandaag aanmelden voor het nieuwe schooljaar",
     "categorie": "Inschrijvingen",
     "auteur": "John Simba",
@@ -40,11 +16,35 @@
     "slug": "aanmelden-nieuw-schooljaar"
   },
   {
-    "id": 6,
-    "titel": "De campus kreeg dit schooljaar verschillende vernieuwingen die het leercomfort en de onderwijskwaliteit verder versterken",
-    "categorie": "Campussen",
+    "id": 3,
+    "titel": "Tijdens de jaarlijkse projectweek werkten leerlingen aan innovatieve oplossingen voor actuele maatschappelijke uitdagingen",
+    "categorie": "Projecten",
+    "auteur": "Matt Smith",
+    "datum": "2024-04-09",
+    "slug": "projectweek"
+  },
+  {
+    "id": 4,
+    "titel": "Meer dan duizend leerlingen namen deel aan een succesvolle sportdag vol uitdagingen, plezier en teamspirit",
+    "categorie": "Evenementen",
     "auteur": "Maria Wick",
-    "datum": "2024-06-09",
-    "slug": "campus-vernieuwingen"
+    "datum": "2024-03-09",
+    "slug": "sportdag"
+  },
+  {
+    "id": 5,
+    "titel": "Busleyden Atheneum lanceert een vernieuwde digitale leeromgeving die communicatie en samenwerking eenvoudiger maakt",
+    "categorie": "Schoolnieuws",
+    "auteur": "John Simba",
+    "datum": "2024-02-09",
+    "slug": "digitale-leeromgeving"
+  },
+  {
+    "id": 6,
+    "titel": "Tijdens een druk bezocht infomoment maakten honderden leerlingen kennis met de verschillende studierichtingen van Busleyden Atheneum",
+    "categorie": "Inschrijvingen",
+    "auteur": "Matt Smith",
+    "datum": "2024-01-09",
+    "slug": "infomoment-studierichtingen"
   }
 ]
