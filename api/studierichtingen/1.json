@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "naam": "Informatica",
+  "studiedomein": "STEM",
+  "campus": "Campus Caputsteen",
+  "graad": "2de graad",
+  "korteBeschrijving": "Ontwikkelt digitale vaardigheden, logisch denken en programmeerkennis",
+  "slug": "informatica"
+}
