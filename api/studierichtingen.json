@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "naam": "Informatica",
+    "studiedomein": "STEM",
+    "campus": "Campus Caputsteen",
+    "graad": "2de graad",
+    "korteBeschrijving": "Ontwikkelt digitale vaardigheden, logisch denken en programmeerkennis",
+    "slug": "informatica"
+  },
+  {
+    "id": 2,
+    "naam": "Biotechnologische & Chemische Wetenschappen",
+    "studiedomein": "Mens & Wetenschap",
+    "campus": "Campus Stassart",
+    "graad": "3de graad",
+    "korteBeschrijving": "Verdiept wetenschap, chemie en laboratoriumvaardigheden",
+    "slug": "biotechnologische-chemische-wetenschappen"
+  },
+  {
+    "id": 3,
+    "naam": "Industriële Wetenschappen",
+    "studiedomein": "STEM",
+    "campus": "Campus Caputsteen",
+    "graad": "2de graad",
+    "korteBeschrijving": "Combineert techniek, wetenschap en innovatie",
+    "slug": "industriele-wetenschappen"
+  },
+  {
+    "id": 4,
+    "naam": "Moderne Talen",
+    "studiedomein": "Economie & Talen",
+    "campus": "Campus Botaniek",
+    "graad": "2de graad",
+    "korteBeschrijving": "Boeien",
+    "slug": "moderne-talen"
+  },
+  {
+    "id": 5,
+    "naam": "Humane Wetenschappen",
+    "studiedomein": "Mens & Wetenschap",
+    "campus": "Campus Stassart",
+    "graad": "2de graad",
+    "korteBeschrijving": "Bestudeert menselijk gedrag en samenleving",
+    "slug": "humane-wetenschappen"
+  },
+  {
+    "id": 6,
+    "naam": "Wetenschappen",
+    "studiedomein": "Mens & Wetenschap",
+    "campus": "Campus Caputsteen",
+    "graad": "2de graad",
+    "korteBeschrijving": "Sterke basis in natuurwetenschappen en onderzoek",
+    "slug": "wetenschappen"
+  },
+  {
+    "id": 7,
+    "naam": "Bedrijf & Organisatie",
+    "studiedomein": "Economie & Talen",
+    "campus": "Campus Botaniek",
+    "graad": "2de graad",
+    "korteBeschrijving": "Praktische kennismaking met ondernemen en administratie",
+    "slug": "bedrijf-organisatie"
+  },
+  {
+    "id": 8,
+    "naam": "Bedrijfswetenschappen",
+    "studiedomein": "Economie & Talen",
+    "campus": "Campus Botaniek",
+    "graad": "3de graad",
+    "korteBeschrijving": "Verdiept economische en bedrijfskundige inzichten",
+    "slug": "bedrijfswetenschappen"
+  },
+  {
+    "id": 9,
+    "naam": "Economische Wetenschappen",
+    "studiedomein": "Economie & Talen",
+    "campus": "Campus Botaniek",
+    "graad": "3de graad",
+    "korteBeschrijving": "Combineert economie, wiskunde en analyse",
+    "slug": "economische-wetenschappen"
+  },
+  {
+    "id": 10,
+    "naam": "Technologische Wetenschappen",
+    "studiedomein": "STEM",
+    "campus": "Campus Caputsteen",
+    "graad": "3de graad",
+    "korteBeschrijving": "Combineert technologie, onderzoek en innovatie",
+    "slug": "technologische-wetenschappen"
+  }
+]
