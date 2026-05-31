@@ -1,1 +1,16 @@
-
+{
+  "id": 3,
+  "titel": "Tijdens de jaarlijkse projectweek werkten leerlingen aan innovatieve oplossingen voor actuele maatschappelijke uitdagingen",
+  "categorie": "Projecten",
+  "auteur": "Matt Smith",
+  "datum": "2024-04-09",
+  "slug": "projectweek",
+  "intro": "Tijdens de projectweek werkten leerlingen in teams aan duurzame, technologische en creatieve oplossingen.",
+  "inhoud": "Gedurende een volledige week werkten leerlingen in teams aan projecten rond duurzaamheid, technologie en innovatie. Ze onderzochten problemen uit de echte wereld en ontwikkelden creatieve oplossingen. Door samen te werken leerden de leerlingen niet alleen technische vaardigheden, maar ook belangrijke competenties zoals communiceren, plannen en presenteren.",
+  "punten": [
+    "Hernieuwbare energie",
+    "Slimme technologie",
+    "Duurzaam wonen",
+    "Milieubewust ondernemen"
+  ]
+}
