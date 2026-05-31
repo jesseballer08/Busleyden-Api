@@ -1,1 +1,16 @@
-
+{
+  "id": 6,
+  "titel": "Tijdens een druk bezocht infomoment maakten honderden leerlingen kennis met de verschillende studierichtingen van Busleyden Atheneum",
+  "categorie": "Inschrijvingen",
+  "auteur": "Matt Smith",
+  "datum": "2024-01-09",
+  "slug": "infomoment-studierichtingen",
+  "intro": "Het infomoment gaf toekomstige leerlingen een duidelijk beeld van de studierichtingen en campussen.",
+  "inhoud": "Een studiekeuze maken is niet eenvoudig. Daarom organiseerde Busleyden Atheneum een uitgebreid infomoment waarbij leerlingen en ouders informatie konden verzamelen over de verschillende opleidingen. Leerkrachten en leerlingen stonden klaar om ervaringen te delen en vragen te beantwoorden. Bezoekers kregen een inkijk in lessen, projecten en toekomstige carrièremogelijkheden.",
+  "punten": [
+    "STEM",
+    "Economie & Talen",
+    "Mens & Wetenschap",
+    "Kunst & Creatie"
+  ]
+}
