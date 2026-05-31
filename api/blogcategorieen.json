@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "naam": "Schoolnieuws",
+    "slug": "schoolnieuws"
+  },
+  {
+    "id": 2,
+    "naam": "Evenementen",
+    "slug": "evenementen"
+  },
+  {
+    "id": 3,
+    "naam": "Projecten",
+    "slug": "projecten"
+  },
+  {
+    "id": 4,
+    "naam": "Inschrijvingen",
+    "slug": "inschrijvingen"
+  },
+  {
+    "id": 5,
+    "naam": "Campussen",
+    "slug": "campussen"
+  }
+]
