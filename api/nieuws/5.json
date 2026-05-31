@@ -1,1 +1,17 @@
-
+{
+  "id": 5,
+  "titel": "Busleyden Atheneum lanceert een vernieuwde digitale leeromgeving die communicatie en samenwerking eenvoudiger maakt",
+  "categorie": "Schoolnieuws",
+  "auteur": "John Simba",
+  "datum": "2024-02-09",
+  "slug": "digitale-leeromgeving",
+  "intro": "De nieuwe digitale leeromgeving geeft leerlingen en leerkrachten één centrale plaats voor lessen, opdrachten en communicatie.",
+  "inhoud": "De nieuwe digitale leeromgeving biedt leerlingen en leerkrachten één centrale plaats voor lessen, opdrachten en communicatie. Hierdoor wordt informatie sneller gedeeld en kunnen leerlingen efficiënter werken. Naast een gebruiksvriendelijke interface bevat het platform verschillende nieuwe functies die het leerproces ondersteunen.",
+  "punten": [
+    "Overzichtelijke planning",
+    "Snelle communicatie",
+    "Online opdrachten",
+    "Toegang tot lesmateriaal",
+    "Betere samenwerking"
+  ]
+}
