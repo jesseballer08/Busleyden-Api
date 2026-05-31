@@ -1,1 +1,17 @@
-
+{
+  "id": 1,
+  "titel": "De campus kreeg dit schooljaar verschillende vernieuwingen die het leercomfort en de onderwijskwaliteit verder versterken",
+  "categorie": "Campussen",
+  "auteur": "Maria Wick",
+  "datum": "2024-06-09",
+  "slug": "campus-vernieuwingen",
+  "intro": "Busleyden Atheneum investeert in moderne infrastructuur om leerlingen beter te ondersteunen.",
+  "inhoud": "Om leerlingen optimaal voor te bereiden op de toekomst blijft Busleyden Atheneum investeren in moderne infrastructuur. Op Campus Caputsteen werden verschillende klaslokalen vernieuwd en uitgerust met nieuwe technologie. De nieuwe leeromgevingen stimuleren samenwerking, creativiteit en zelfstandig leren. Dankzij digitale hulpmiddelen kunnen leerlingen nog beter voorbereid worden op hogere studies en de arbeidsmarkt.",
+  "punten": [
+    "Nieuwe STEM-lokalen",
+    "Moderne computerruimtes",
+    "Flexibele werkruimtes",
+    "Digitale lesborden",
+    "Snellere netwerkverbindingen"
+  ]
+}
