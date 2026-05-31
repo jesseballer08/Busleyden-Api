@@ -1,1 +1,17 @@
-
+{
+  "id": 2,
+  "titel": "Toekomstige leerlingen en hun ouders kunnen zich vanaf vandaag aanmelden voor het nieuwe schooljaar",
+  "categorie": "Inschrijvingen",
+  "auteur": "John Simba",
+  "datum": "2024-05-09",
+  "slug": "aanmelden-nieuw-schooljaar",
+  "intro": "Het nieuwe inschrijvingsmoment is gestart voor leerlingen van de eerste, tweede en derde graad.",
+  "inhoud": "Geïnteresseerde leerlingen kunnen zich aanmelden voor de eerste, tweede en derde graad. Tijdens de inschrijvingsperiode krijgen ouders de kans om kennis te maken met de verschillende studierichtingen en campussen. Busleyden Atheneum biedt een brede combinatie van theoretische kennis, praktijkervaring en persoonlijke begeleiding.",
+  "punten": [
+    "Moderne leeromgevingen",
+    "Ervaren leerkrachten",
+    "Sterke studiebegeleiding",
+    "Praktijkgerichte projecten",
+    "Ruime keuze aan studierichtingen"
+  ]
+}
